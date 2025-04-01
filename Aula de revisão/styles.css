@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+.teste{
+    margin: 20px;
+    padding: 25px;
+    width: 500px;
+    height: 500px;
+    background-color: brown;
+}
